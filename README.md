@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+
+-> Flutter Developer.
+-> Electrical Engineering student.
+-> Currently a developer at Osiris Agtech with mobile development.
 <!--
 **GustavoAlecio/GustavoAlecio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
