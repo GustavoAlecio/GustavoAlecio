@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gustavoalecio&label=Profile%20views&color=0e75b6&style=flat" alt="gustavoalecio" /> </p>
 
-- 🔭 I’m currently working on **TDX | TIVIT**
+- 🔭 I’m currently working on **R10 Score | Grupo OTG**
 
 - 🌱 I’m currently learning **advanced Flutter, aiming for future solution architecture.**
 
